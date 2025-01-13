@@ -1,6 +1,6 @@
 package ChatComm;
 
-import javax.swing.*; //this is used to bring a frame in our code
+import javax.swing.*; //this  is used to bring a frame in our code
 
 import javax.swing.border.EmptyBorder;
 import javax.swing.border.*;
